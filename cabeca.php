@@ -27,7 +27,7 @@
         .section1 {
             height: 50vh;
             /* 50% da altura da viewport */
-            background-color: #FFF;
+            background-image: "imgs/severeheroArand.jpg";
             /* Primeira cor */
         }
 
