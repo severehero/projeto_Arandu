@@ -8,20 +8,22 @@
             <div class="col">
 
                 <div class="card" style="width: 35rem;  margin-top: 30px;">
-                    <img class="card-img-top" src="imgs/images.jpg" alt="Imagem de capa do card">
+                    <img class="card-img-top" src="imgs/LabCode_Joinville.webp" alt="Imagem de capa do card">
                     <div class="card-body">
                         <p class="card-text">
                         <p>
                         <H4>Área de atuação</H4>
+                        <div id="font1text">
                         </p>
                         Buscamos soluções educacionais tanto para instituições de ensino como para um publico mais abrangente na web nas diversas áreas do conhecimento, que engloba áreas da BNCC, currículo da Educação Básica, como também integrar saberes populares e tradicionais dentro de um ambiente digital, através da produção acadêmica discente e docente seja pela gamificação e pelas atividades desenvolvidas em um ambiente de educação tecnológica.
                         </p>
+                        </div>
                     </div>
                 </div>          
             </div>
-            <div class="col order-first">
+        <div class="col order-first">
 
-            </div>
+        </div>
         </div>
     </div>
 </div>
